@@ -20,14 +20,3 @@ An AI-powered solution finder for SAP errors using Groq's lightning-fast LLMs. T
 - [Groq API Key](https://console.groq.com/api-keys)
 - SAP system access (for solution verification)
 
-## Installation ⚙️
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/sap-error-assistant.git
-
-# Navigate to project directory
-cd sap-error-assistant
-
-# Install dependencies
-pip install -r requirements.txt
